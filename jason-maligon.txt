@@ -1,5 +1,5 @@
 one
-word
+planet
 per
 line
 pineapple
